@@ -1,5 +1,5 @@
 # Using 'ubuntu' as the base image here
-FROM ubuntu
+FROM ubuntu:24.10
 
 # setting the working directory
 WORKDIR /opt/aem
